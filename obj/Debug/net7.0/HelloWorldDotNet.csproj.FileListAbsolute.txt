@@ -1,0 +1,15 @@
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/bin/Debug/net7.0/HelloWorldDotNet
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/bin/Debug/net7.0/HelloWorldDotNet.deps.json
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/bin/Debug/net7.0/HelloWorldDotNet.runtimeconfig.json
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/bin/Debug/net7.0/HelloWorldDotNet.dll
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/bin/Debug/net7.0/HelloWorldDotNet.pdb
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/obj/Debug/net7.0/HelloWorldDotNet.csproj.AssemblyReference.cache
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/obj/Debug/net7.0/HelloWorldDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/obj/Debug/net7.0/HelloWorldDotNet.AssemblyInfoInputs.cache
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/obj/Debug/net7.0/HelloWorldDotNet.AssemblyInfo.cs
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/obj/Debug/net7.0/HelloWorldDotNet.csproj.CoreCompileInputs.cache
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/obj/Debug/net7.0/HelloWorldDotNet.dll
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/obj/Debug/net7.0/refint/HelloWorldDotNet.dll
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/obj/Debug/net7.0/HelloWorldDotNet.pdb
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/obj/Debug/net7.0/HelloWorldDotNet.genruntimeconfig.cache
+/Users/jtwhetstone/Web-Projects/HelloWorldDotNet/obj/Debug/net7.0/ref/HelloWorldDotNet.dll
